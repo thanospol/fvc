@@ -14,10 +14,8 @@ If you use fvc in your work, please cite this repository, along with the associa
 
 **[J1]** A. G. Polimeridis, M. T. H. Reid, W. Jin, S. G. Johnson, J. K. White, and A. W. Rodriguez,
 "Fluctuating volume-current formulation of electromagnetic fluctuations in inhomogeneous media: incandescence and luminescence in arbitrary geometries."
+Phys. Rev. B 92: 134202, 2015.
 
-**[J2]** W. Jin, A. G. Polimeridis, and A. W. Rodriguez,
-"Temperature control of thermal radiation from heterogeneous bodies."
-
-**[J3]** A. G. Polimeridis, M. T. H. Reid, S. G. Johnson, J. K. White, and A. W. Rodriguez.
+**[J2]** A. G. Polimeridis, M. T. H. Reid, S. G. Johnson, J. K. White, and A. W. Rodriguez.
 "On the computation of power in volume integral equation formulations."
 IEEE Transactions on Antennas and Propagation, 63 (2): 611-620, 2015.
